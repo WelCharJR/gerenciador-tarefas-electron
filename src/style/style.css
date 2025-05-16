@@ -36,9 +36,10 @@ body {
 div {
     background-color: #4facfe;
     max-width: 400px;
-    margin: 20px;
+    margin: auto;
     padding: 20px;
     border-radius: 22px;
+    
 }
 
 input {
@@ -59,4 +60,9 @@ li {
     margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.tarefa-concluida {
+    color:white
 }
