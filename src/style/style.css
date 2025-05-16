@@ -64,5 +64,6 @@ li {
 }
 
 .tarefa-concluida {
-    color:white
+    color:white;
+    text-decoration: line-through;
 }
